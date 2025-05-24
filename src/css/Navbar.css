@@ -1,0 +1,16 @@
+.navbar {
+  background-color: #0a0a23;
+  padding: 1rem 2rem;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.logo {
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: #ffc107;
+  user-select: none;
+}
